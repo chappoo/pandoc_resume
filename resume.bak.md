@@ -1,36 +1,16 @@
----
-name: Steve Chapman
-keywords: c#, powershell
-...
+Johnny Coder
+============
 
-# Steve Chapman, Cloud Solution Architect
+----
 
-I am a freelance cloud solution architect, specialising in delivery optimisation through automation and process improvement with over 18 years of software development experience.  A strong background in development and architecture enables me to make informed decisions in the DevOps optimisation space.  I am an avid technology hobbyist.  My core competencies include Amazon Web Services, Microsoft Azure, Git, Terraform, C#, F#, PowerShell.
+>  In this style, the resume starts with a blockquote, where
+>  you can briefly list your specialties, or include a salient
+>  quote. Ending a line with a backslash forces a line break.
 
-I participate in open source communities, with involvement in projects on GitHub and BitBucket.
+----
 
-I possess excellent communication skills and thrive in dynamic team environments.  I am suited to small and large teams, on-site or remote.  
-
-I hold dual citizenship within Great Britain and Australia.
-
-# Summary
-
-I am a freelance Senior Perl Developer with over 20 years' experience,
-including exposure to Machine Learning, Python, Git, MySQL, Nginx, Apache HTTP
-Server, XSLT, XML, RelaxNG, HTML, and CSS.
-
-I'm an active proponent of Modern Perl. I like writing technical
-documentation and unit tests; both have saved my customers and me a
-lot of time over the years. I prefer to reuse tested code as much as
-possible, hence I often start a project with researching available
-solutions on CPAN.
-
-My personal development projects consist of several in-house tools,
-including a static website and blog generator using XML as input
-format.  Currently, I am working on a new version using Markdown for
-input instead.
-
-## Education
+Education
+---------
 
 2010-2014 (expected)
 :   **PhD, Computer Science**; Awesome University (MyTown)
@@ -44,7 +24,8 @@ input instead.
 
     *Minor: Awesomeology*
 
-## Experience
+Experience
+----------
 
 **Your Most Recent Work Experience:**
 
@@ -61,7 +42,8 @@ links:
 
 Also with a short description.
 
-## Technical Experience
+Technical Experience
+--------------------
 
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
@@ -99,7 +81,8 @@ Programming Languages
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-## Extra Section, Call it Whatever You Want
+Extra Section, Call it Whatever You Want
+----------------------------------------
 
 * Human Languages:
 
@@ -113,5 +96,5 @@ Programming Languages
 
 ----
 
-> <steven.p.chapman@gmail.com> • +44 (0)7494 350 247\
-> London, UK
+> <email@example.com> • +00 (0)00 000 0000 • XX years old\
+> address - Mytown, Mycountry
