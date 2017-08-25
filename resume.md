@@ -17,7 +17,7 @@ I possess dual citizenship of Great Britain (native) and Australia.
 
 1994-1997 : **BSc (Hons), Mathematics**; University of Southampton
 
-1992-1994 : **A-Levels Mathematics (A), Physics (D), Design & Communication (E)**
+1992-1994 : **A-Levels Mathematics, Physics, Design & Communication**
 
 # Qualifications
 
@@ -35,11 +35,13 @@ CLOUD PROVIDERS
 :   Amazon Web Services (~5 years)
     Microsoft Azure (~2 years)
 
-SCRIPTING
-:   Shell, PowerShell, Linux Bash
+SCRIPTING / AUTOMATION
+:   Terraform, Packer, Consul, Vault, Docker, Puppet, Chef
+    Shell, PowerShell, Linux Bash
 
 BUILD/DEPLOY
-:   [TeamCity](https://www.jetbrains.com/teamcity/) & [OctopusDeploy](https://octopus.com/)
+:   [TeamCity](https://www.jetbrains.com/teamcity/)
+    [OctopusDeploy](https://octopus.com/)
 
 PLATFORMS
 :   Microsoft .NET (All)
@@ -76,9 +78,28 @@ OS'S
 
 TECH
 :   C#, SERVICESTACK, REDIS, SQL SERVER, MVC 5, KENDO UI, VS 2015, WINDOWS / UBUNTU, BASH
+    VAGRANT, VMWARE / HYPER-V, DOCKER, AMAZON AWS (S3, VPC, EC2, ROUTE 53, SES, IAM), BITBUCKET, ATLASSIAN CLOUD, GITHUB / GIST, TEAMCITY, NUGET, OCTOPUS DEPLOY
 
-TOOLING
-:   VAGRANT, VMWARE / HYPER-V, DOCKER, AMAZON AWS (S3, VPC, EC2, ROUTE 53, SES, IAM), BITBUCKET, ATLASSIAN CLOUD, GITHUB / GIST, TEAMCITY, NUGET, OCTOPUS DEPLOY
+### UBS INVESTMENT BANK & STATPRO (ACQUISITION) / DEVOPS ARCHITECT
+
+10.2016-NOW
+:   Technical software delivery process engineering, continuous improvement
+    Dependency graph analytics and optimisation
+    Cloud migration proof of concepting
+    Gained: AWS Solution Architect certification 
+
+TECH
+:   F# / C#, TEAMCITY, OCTOPUS DEPLOY, AWS, TERRAFORM, PACKER, CONSUL, DOCKER
+
+### [DEVOPSGUYS](https://www.devopsguys.com) / DEVOPS TRANSFORMATION CONSULTANT
+
+04.2016-09.2016
+:   Consultant architect on DevOps transformation program at major London-based website
+    Large-scale Azure cloud migration of on-premises data centre platform, working with central engineering team
+    Change management process engineering (agile processes / kanban)
+
+TECH
+:   AZURE PaaS / IaaS PRODUCTS, POWERSHELL / DSC, CHEF, TEAMCITY, OCTOPUS DEPLOY, VSTS (GIT) / TFS
 
 ### SAI GLOBAL CONTINUOUS DELIVERY / DEVELOPMENT OPERATIONS SPECIALIST
 
@@ -90,7 +111,7 @@ TECH
 :   C#, SERVICESTACK, REDIS, SQL SERVER, MVC 5, VS 2015, WINDOWS / UBUNTU, BASH
 
 TOOLING
-:   TEAMCITY, NUGET, OCTOPUS DEPLOY, GIT, TFS, REDIS, HASHICORP (VAGRANT, PACKER, TERRAFORM, SERF, CONSUL), DOCKER, ATLASSIAN STACK (JIRA / BB SERVER {STASH} / CONFLUENCE)
+:   TEAMCITY, NUGET, OCTOPUS DEPLOY, GIT, TFS, REDIS, HASHICORP (VAGRANT, PACKER, TERRAFORM, CONSUL), DOCKER, ATLASSIAN STACK (JIRA / BB SERVER {STASH} / CONFLUENCE)
 
 ### COMMONWEALTH BANK OF AUSTRALIA / ENTERPRISE SERVICES
 
