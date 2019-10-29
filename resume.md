@@ -32,7 +32,7 @@ I possess dual citizenship of Great Britain (native) and Australia.
 ## Technical Experience (high-level)
 
 CLOUD PROVIDERS
-:   Amazon Web Services (~5 years)
+:   Amazon Web Services (~6 years)
     Microsoft Azure (~2 years)
 
 SCRIPTING / AUTOMATION
@@ -81,9 +81,19 @@ OS'S
 TECH
 :   C#, SERVICESTACK, REDIS, SQL SERVER, MVC 5, KENDO UI, VS 2015, WINDOWS / UBUNTU, BASH, DOCKER, AMAZON AWS (COMPREHENSIVE), TERRAFORM, PACKER, BITBUCKET, GITHUB / GIST, TEAMCITY, NUGET, OCTOPUS DEPLOY
 
+### STATPRO / SENIOR DEVOPS ENGINEER / ARCHITECT
+
+05.2018-NOW
+:   Senior DevOps Engineer
+    Responsible for process engineering for delivery of new Cloud Platform
+    AWS Solution Architect 
+
+TECH
+:   F# / C#, TEAMCITY, OCTOPUS DEPLOY, AWS, TERRAFORM, PACKER, CONSUL, DOCKER
+
 ### UBS INVESTMENT BANK & STATPRO (ACQUISITION) / DEVOPS ARCHITECT
 
-10.2016-NOW
+10.2016-04.2018
 :   Technical software delivery process engineering, continuous improvement
     Dependency graph analytics / optimisation
     Cloud migration proof of concepting (working within regulatory constraints)
